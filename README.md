@@ -15,9 +15,9 @@ first i want to give an overview of all project steps -->
 
 Here're some of the project's best features:
 
-*   Obstacle avoidance
-*   distance estimation
-*   orientation estimation
+*   Obstacle Detection and Avoidance
+*   Distance and Orientation estimation with Aruco tags 
+*   Streaming Realtime and Monitoring Data
 
 <h2>🍰 Contribution Guidelines:</h2>
 
