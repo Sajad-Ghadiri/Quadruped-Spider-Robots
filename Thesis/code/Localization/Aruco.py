@@ -8,7 +8,9 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import pandas as pd
 
-camera = cv2.VideoCapture(0)
+BASE_URL = "http://172.21.232.26"
+camera = cv2.VideoCapture('http://172.21.232.26:81/stream')
+
 mtx = np.array([[1.78952655e+03, 0.00000000e+00, 9.69572430e+02],
                 [0.00000000e+00, 1.78952655e+03, 5.64872516e+02],
                 [0.00000000e+00, 0.00000000e+00, 1.00000000e+00]])

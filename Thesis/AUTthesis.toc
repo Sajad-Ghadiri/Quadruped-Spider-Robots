@@ -26,34 +26,35 @@
 \contentsline {subsection}{\numberline {2-3-1}مقدمه}{13}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2-3-2}تصویر چیست؟}{14}{subsection.2.3.2}%
 \contentsline {subsection}{\numberline {2-3-3}پردازش تصویر چیست؟}{14}{subsection.2.3.3}%
-\contentsline {section}{\numberline {2-4}الگوریتم جستجوی سریع درخت تصادفی}{15}{section.2.4}%
+\contentsline {section}{\numberline {2-4}الگوریتم درخت جستجوی تصادفی}{15}{section.2.4}%
 \contentsline {subsection}{\numberline {2-4-1}مقدمه}{15}{subsection.2.4.1}%
 \contentsline {subsection}{\numberline {2-4-2}شبیه‌سازی دوبعدی با پایتون}{16}{subsection.2.4.2}%
 \contentsline {subsubsection}{\numberline {2-4-2-1}نتایج شبیه‌سازی}{16}{subsubsection.2.4.2.1}%
-\contentsline {subsubsection}{\numberline {2-4-2-2}شبیه‌کد و تشریح جزئیات برنامه}{17}{subsubsection.2.4.2.2}%
-\contentsline {subsubsection}{\numberline {2-4-2-3}ادغام الگوریتم با قابلیت‌های ربات به منظور پیاده‌سازی}{19}{subsubsection.2.4.2.3}%
-\contentsline {section}{\numberline {2-5}\lr {Localization}}{20}{section.2.5}%
-\contentsline {subsection}{\numberline {2-5-1}مقدمه}{20}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2-5-2}استفاده از تگ}{21}{subsection.2.5.2}%
-\contentsline {subsubsection}{\numberline {2-5-2-1}مفاهیم اصلی}{21}{subsubsection.2.5.2.1}%
-\contentsline {subsubsection}{\numberline {2-5-2-2}شبه‌کد و تشریح جزئیات برنامه}{21}{subsubsection.2.5.2.2}%
-\contentsline {section}{\numberline {2-6}جمع بندی}{24}{section.2.6}%
-\contentsline {chapter}{\numberline {3}نرم ‌افزار و ارتباطات}{25}{chapter.3}%
-\contentsline {section}{\numberline {3-1}ارتباطات و سرور}{26}{section.3.1}%
-\contentsline {subsection}{\numberline {3-1-1}اتصال بیسیم دوربین به سرور}{26}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3-1-1-1}مفاهیم اصلی}{26}{subsubsection.3.1.1.1}%
-\contentsline {subsubsection}{\numberline {3-1-1-2}شبه‌کد و تشریح جزئیات برنامه}{27}{subsubsection.3.1.1.2}%
-\contentsline {subsection}{\numberline {3-1-2}سرور و هندلر‌‌ها }{30}{subsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3-1-2-1}نحوه کارکرد سرور و نقش هندلر‌ها}{30}{subsubsection.3.1.2.1}%
-\contentsline {subsubsection}{\numberline {3-1-2-2}شبه‌کد و تشریح جزئیات برنامه }{30}{subsubsection.3.1.2.2}%
-\contentsline {subsubsection}{\numberline {3-1-2-3}کوئری استرینگ}{33}{subsubsection.3.1.2.3}%
-\contentsline {subsubsection}{\numberline {3-1-2-4}تابع هندلر}{35}{subsubsection.3.1.2.4}%
-\contentsline {subsection}{\numberline {3-1-3}ارتباط \lr {USART}}{37}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3-2}اتصال دو برد به یکدیگر}{38}{section.3.2}%
-\contentsline {chapter}{\numberline {4}سخت افزار الکترونیکی ربات}{39}{chapter.4}%
-\contentsline {section}{\numberline {4-1}مقدمه}{40}{section.4.1}%
-\contentsline {section}{\numberline {4-2}پردازنده \lr {ARM} سری \lr {f101c8t6}}{40}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ماژول \lr {ESP32-CAM}}{41}{section.4.3}%
+\contentsline {subsubsection}{\numberline {2-4-2-2}شبیه‌کد و تشریح جزئیات برنامه}{16}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {2-4-2-3}ادغام الگوریتم با قابلیت‌های ربات به منظور پیاده‌سازی}{18}{subsubsection.2.4.2.3}%
+\contentsline {section}{\numberline {2-5}\lr {Localization}}{19}{section.2.5}%
+\contentsline {subsection}{\numberline {2-5-1}مقدمه}{19}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2-5-2}استفاده از تگ}{20}{subsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2-5-2-1}مفاهیم اصلی}{20}{subsubsection.2.5.2.1}%
+\contentsline {subsubsection}{\numberline {2-5-2-2}شبه‌کد و تشریح جزئیات برنامه}{20}{subsubsection.2.5.2.2}%
+\contentsline {section}{\numberline {2-6}جمع بندی}{23}{section.2.6}%
+\contentsline {chapter}{\numberline {3}نرم ‌افزار و ارتباطات}{24}{chapter.3}%
+\contentsline {section}{\numberline {3-1}ارتباطات و سرور}{25}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}اتصال بیسیم دوربین به سرور}{25}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3-1-1-1}مفاهیم اصلی}{25}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3-1-1-2}شبه‌کد و تشریح جزئیات برنامه}{26}{subsubsection.3.1.1.2}%
+\contentsline {subsection}{\numberline {3-1-2}سرور و هندلر‌‌ها }{29}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3-1-2-1}نحوه کارکرد سرور و نقش هندلر‌ها}{29}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3-1-2-2}شبه‌کد و تشریح جزئیات برنامه }{29}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3-1-2-3}کوئری استرینگ}{32}{subsubsection.3.1.2.3}%
+\contentsline {subsubsection}{\numberline {3-1-2-4}تابع هندلر}{34}{subsubsection.3.1.2.4}%
+\contentsline {subsection}{\numberline {3-1-3}ارتباط \lr {USART}}{36}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3-2}اتصال دو برد به یکدیگر}{37}{section.3.2}%
+\contentsline {section}{\numberline {3-3}جمع‌بندی}{37}{section.3.3}%
+\contentsline {chapter}{\numberline {4}سخت افزار الکترونیکی ربات}{38}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مقدمه}{39}{section.4.1}%
+\contentsline {section}{\numberline {4-2}پردازنده \lr {ARM} سری \lr {F103C8T6}}{39}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ماژول \lr {ESP32-CAM}}{40}{section.4.3}%
 \contentsline {section}{\numberline {4-4}دوربین \lr {OV2640}}{42}{section.4.4}%
 \contentsline {section}{\numberline {4-5}سروموتور}{43}{section.4.5}%
 \contentsline {subsection}{\numberline {4-5-1}روش \lr {PWM}}{44}{subsection.4.5.1}%
@@ -61,12 +62,12 @@
 \contentsline {subsubsection}{\numberline {4-5-1-2}مدولاسیون پهنای پالس}{44}{subsubsection.4.5.1.2}%
 \contentsline {section}{\numberline {4-6}تجهیزات مکانیکی}{45}{section.4.6}%
 \contentsline {subsection}{\numberline {4-6-1}سایر قطعات متصل کننده}{45}{subsection.4.6.1}%
-\contentsline {section}{\numberline {4-7}جمع بندی}{45}{section.4.7}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{46}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{47}{section.5.1}%
-\contentsline {chapter}{کتاب‌نامه}{48}{appendix*.34}%
-\contentsline {chapter}{پیوست}{50}{appendix*.35}%
-\contentsline {section}{\numberline {-1}کد \lr {Localization}}{61}{section.Alph0.1}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{64}{appendix*.37}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{66}{appendix*.38}%
+\contentsline {subsubsection}{\numberline {4-6-1-1}پین‌هدر}{45}{subsubsection.4.6.1.1}%
+\contentsline {section}{\numberline {4-7}جمع بندی}{46}{section.4.7}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{47}{chapter.5}%
+\contentsline {section}{\numberline {5-1}پیشنهادات}{48}{section.5.1}%
+\contentsline {chapter}{کتاب‌نامه}{49}{appendix*.37}%
+\contentsline {chapter}{پیوست}{51}{appendix*.38}%
+\contentsline {section}{\numberline {-1}کد \lr {Localization}}{62}{section.Alph0.1}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{65}{appendix*.40}%
 \contentsfinish 
