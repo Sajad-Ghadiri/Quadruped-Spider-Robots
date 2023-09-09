@@ -1,0 +1,70 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست تصاویر}{ه}{section*.4}%
+\contentsline {chapter}{فهرست جداول}{و}{section*.5}%
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}%
+\contentsline {section}{\numberline {1-2}ربات و انواع آن}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1-2-1}ربات‌های سری}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1-2-2}ربات‌های موازی}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1-2-3}ربات‌های متحرک}{4}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1-3}ربات عنکبوتی چهارپا}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}ربات‌های عنکبوتی}{5}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1-3-1-1}پایداری استاتیکی}{6}{subsubsection.1.3.1.1}%
+\contentsline {subsection}{\numberline {1-3-2}ربات‌های عنکبوتی چهارپا}{7}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1-4}تاثیر هوش مصنوعی بر رباتیک}{7}{section.1.4}%
+\contentsline {section}{\numberline {1-5}مروری بر الگوریتم‌های مسیریابی}{8}{section.1.5}%
+\contentsline {section}{\numberline {1-6}اهداف و نوآوری}{10}{section.1.6}%
+\contentsline {section}{\numberline {1-7}ساختار پایان نامه}{11}{section.1.7}%
+\contentsline {section}{\numberline {1-8}جمع بندی}{11}{section.1.8}%
+\contentsline {chapter}{\numberline {2}مسیریابی و الگوریتم های پیاده سازی شده}{12}{chapter.2}%
+\contentsline {section}{\numberline {2-1}مقدمه}{13}{section.2.1}%
+\contentsline {section}{\numberline {2-2}مقدمه‌ای بر پردازش تصویر}{13}{section.2.2}%
+\contentsline {section}{\numberline {2-3}پردازش تصویر}{13}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1}مقدمه}{13}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2-3-2}تصویر چیست؟}{14}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2-3-3}پردازش تصویر چیست؟}{14}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2-4}الگوریتم جستجوی سریع درخت تصادفی}{15}{section.2.4}%
+\contentsline {subsection}{\numberline {2-4-1}مقدمه}{15}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2-4-2}شبیه‌سازی دوبعدی با پایتون}{16}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2-4-2-1}نتایج شبیه‌سازی}{16}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {2-4-2-2}شبیه‌کد و تشریح جزئیات برنامه}{17}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {2-4-2-3}ادغام الگوریتم با قابلیت‌های ربات به منظور پیاده‌سازی}{19}{subsubsection.2.4.2.3}%
+\contentsline {section}{\numberline {2-5}\lr {Localization}}{20}{section.2.5}%
+\contentsline {subsection}{\numberline {2-5-1}مقدمه}{20}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2-5-2}استفاده از تگ}{20}{subsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2-5-2-1}مقدمه}{20}{subsubsection.2.5.2.1}%
+\contentsline {section}{\numberline {2-6}جمع بندی}{20}{section.2.6}%
+\contentsline {chapter}{\numberline {3}نرم ‌افزار و ارتباطات}{21}{chapter.3}%
+\contentsline {section}{\numberline {3-1}ارتباطات و سرور}{22}{section.3.1}%
+\contentsline {subsection}{\numberline {3-1-1}اتصال بیسیم دوربین به سرور}{22}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3-1-1-1}مفاهیم اصلی}{22}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3-1-1-2}شبه‌کد و تشریح جزئیات برنامه}{23}{subsubsection.3.1.1.2}%
+\contentsline {subsection}{\numberline {3-1-2}سرور و هندلر‌‌ها }{26}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3-1-2-1}نحوه کارکرد سرور و نقش هندلر‌ها}{26}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3-1-2-2}شبه‌کد و تشریح جزئیات برنامه }{26}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3-1-2-3}کوئری استرینگ}{29}{subsubsection.3.1.2.3}%
+\contentsline {subsubsection}{\numberline {3-1-2-4}تابع هندلر}{31}{subsubsection.3.1.2.4}%
+\contentsline {subsection}{\numberline {3-1-3}ارتباط \lr {USART}}{33}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3-2}اتصال دو برد به یکدیگر}{33}{section.3.2}%
+\contentsline {chapter}{\numberline {4}سخت افزار الکترونیکی ربات}{35}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مقدمه}{36}{section.4.1}%
+\contentsline {section}{\numberline {4-2}پردازنده \lr {ARM} سری \lr {f101c8t6}}{36}{section.4.2}%
+\contentsline {section}{\numberline {4-3}ماژول \lr {ESP32-CAM}}{37}{section.4.3}%
+\contentsline {section}{\numberline {4-4}دوربین \lr {OV2640}}{38}{section.4.4}%
+\contentsline {section}{\numberline {4-5}سروموتور}{39}{section.4.5}%
+\contentsline {subsection}{\numberline {4-5-1}روش \lr {PWM}}{40}{subsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4-5-1-1}مدولاسیون چیست؟}{40}{subsubsection.4.5.1.1}%
+\contentsline {subsubsection}{\numberline {4-5-1-2}مدولاسیون پهنای پالس}{40}{subsubsection.4.5.1.2}%
+\contentsline {section}{\numberline {4-6}تجهیزات مکانیکی}{41}{section.4.6}%
+\contentsline {subsection}{\numberline {4-6-1}سایر قطعات متصل کننده}{41}{subsection.4.6.1}%
+\contentsline {section}{\numberline {4-7}جمع بندی}{41}{section.4.7}%
+\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{42}{chapter.5}%
+\contentsline {section}{\numberline {5-1}پیشنهادات}{43}{section.5.1}%
+\contentsline {chapter}{کتاب‌نامه}{44}{appendix*.31}%
+\contentsline {chapter}{پیوست}{46}{appendix*.32}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{58}{appendix*.34}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{60}{appendix*.35}%
+\contentsfinish 
