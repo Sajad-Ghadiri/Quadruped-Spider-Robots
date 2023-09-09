@@ -10,7 +10,7 @@ static esp_err_t current_color_handler(httpd_req_t *req){
             if (httpd_query_key_value(buf,
                           "color", param, 
                           sizeof(param)) == ESP_OK)
-               { Serial.write(param); }           
+               {  Serial.write(param); }           
         }
         free(buf);}
     const char resp[] = "Done";

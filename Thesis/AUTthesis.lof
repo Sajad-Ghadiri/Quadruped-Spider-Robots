@@ -10,13 +10,14 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2-1}{\ignorespaces شبیه سازی الگوریتم \lr {RRT}}}{17}{figure.caption.13}%
 \contentsline {figure}{\numberline {2-2}{\ignorespaces مراحل تولید گره جدید و تشکیل مسیر}}{19}{figure.caption.15}%
+\contentsline {figure}{\numberline {2-3}{\ignorespaces آزمایشگاه اپریل میشیگان}}{20}{figure.caption.16}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces نقطه دسترسی و مُد ایستگاهی}}{22}{figure.caption.16}%
-\contentsline {figure}{\numberline {3-2}{\ignorespaces ساختار کوئری استرینگ}}{30}{figure.caption.23}%
-\contentsline {figure}{\numberline {3-3}{\ignorespaces نحوه اتصال دو برد به یکدیگر\relax }}{34}{figure.caption.26}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces نقطه دسترسی و مُد ایستگاهی}}{26}{figure.caption.19}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces ساختار کوئری استرینگ}}{34}{figure.caption.26}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces نحوه اتصال دو برد به یکدیگر\relax }}{38}{figure.caption.29}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-2}{\ignorespaces ماژول \lr {ESP32CAM}}}{37}{figure.caption.28}%
-\contentsline {figure}{\numberline {4-3}{\ignorespaces دوربین \lr {OV2640}}}{38}{figure.caption.29}%
-\contentsline {figure}{\numberline {4-4}{\ignorespaces سروموتور \lr {SG90}}}{40}{figure.caption.30}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces ماژول \lr {ESP32CAM}}}{41}{figure.caption.31}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces دوربین \lr {OV2640}}}{42}{figure.caption.32}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces سروموتور \lr {SG90}}}{44}{figure.caption.33}%
 \addvspace {10\p@ }
 \contentsfinish 
