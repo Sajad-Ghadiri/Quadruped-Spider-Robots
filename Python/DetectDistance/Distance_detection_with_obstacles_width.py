@@ -11,27 +11,18 @@ width = 0
 
 green = (0,255,0)
 blue = (255,0,0)
-
-# lower_blue = np.array([88 , 80 , 63])
-# upper_blue = np.array([136 , 255 , 255])
-
+# Boundries for colors
 lower_blue = np.array([90 , 65 , 110])
 upper_blue = np.array([134 , 159 , 222])
 
 lower_green = np.array([44 , 21 , 82])
 upper_green = np.array([69 , 64 , 234])
 
-# lower_pink = np.array([159 , 53 , 67])
-# upper_pink = np.array([232 , 134 , 185])
-
 lower_pink = np.array([129 , 20 , 118])
 upper_pink = np.array([198 , 120 , 250])
 
 lower_yellow = np.array([0 , 47 , 78])
 upper_yellow = np.array([48 , 116 , 200])
-
-def nothing():
-    pass
 
 def Blue(frame):
     hsv=cv.cvtColor(frame,cv.COLOR_BGR2HSV)
@@ -72,6 +63,7 @@ def Pink(frame):
     # return (0 , global_Area)
     return (0 , width)
 
+# IP which assigned to my ESP32CAM module
 BASE_URL = "http://172.21.232.26"
 cap = cv.VideoCapture('http://172.21.232.26:81/stream')
 
@@ -82,7 +74,7 @@ flagTimeFirstRun = 0
 
 
 while True:
-    # t_current = time.time()
+    
     t_current = time.localtime(time.time())
     if(flagTimeFirstRun == 0):
         t_last = t_current.tm_sec
@@ -112,6 +104,7 @@ while True:
         t_last = t_current.tm_sec
         if(t_last >= 58):
             t_last = 0
+        # create a string with query to send HTTP request to Server 
         url = f"{BASE_URL}/currentColor?color={status}"
         print(url)
         x = requests.get(url)
