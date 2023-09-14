@@ -43,13 +43,21 @@ while 1 :
 
         frame_markers = aruco.drawDetectedMarkers(frame.copy(), corners, ids)
         
-        size_of_marker = 0.0285  # side lenght of the marker in meter
+        size_of_marker = 0.032  # side lenght of the marker in meter
+        rvecs, tvecs, _ = aruco.estimatePoseSingleMarkers(corners, size_of_marker, mtx, dist)
+        length_of_axis = 0.1
         
         
-        cv2.imshow("hi",frame)
+        imaxis = aruco.drawDetectedMarkers(frame.copy(), corners, ids)
+        
+        
+        for i in range(len(tvecs)):
+            imaxis = aruco.drawAxis(maxis, mtx, dist, rvecs[i], tvecs[i], length_of_axis)
+            
+        cv2.imshow("frame",frame)
         if (cv2.waitKey(1) & 0xFF) == ord('q'):
             break
-        cv2.imshow("hii", frame_markers)
+        cv2.imshow("frame marker", frame_markers)
         
     except:
         pass
