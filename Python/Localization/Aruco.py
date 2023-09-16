@@ -58,7 +58,13 @@ while 1 :
         if (cv2.waitKey(1) & 0xFF) == ord('q'):
             break
         cv2.imshow("frame marker", frame_markers)
-        
+        cv2.imshow("hiii", imaxis)
+        data = pd.DataFrame(data=rvecs.reshape(len(rvecs), 3), columns=["tx", "ty", "tz"],
+                            index=ids.flatten())
+        data.index.name = "marker"
+        data.sort_index(inplace=True)
+        print(data)
+
     except:
         pass
 
