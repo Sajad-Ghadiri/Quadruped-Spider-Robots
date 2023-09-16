@@ -66,7 +66,7 @@ while 1 :
         print(data)
 
     except:
-        pass
+        print("and error occurred in except")
 
 camera.release()
 cv2.destroyAllWindows()
