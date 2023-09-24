@@ -1,0 +1,29 @@
+\hspace *{.5cm}شکل\hfill صفحه \par 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1-1}{\ignorespaces ربات سری}}{3}{figure.caption.3}%
+\contentsline {figure}{\numberline {1-2}{\ignorespaces ربات موازی}}{3}{figure.caption.4}%
+\contentsline {figure}{\numberline {1-3}{\ignorespaces ربات کشاورزی}}{4}{figure.caption.5}%
+\contentsline {figure}{\numberline {1-4}{\ignorespaces ربات عنکبوتی}}{5}{figure.caption.6}%
+\contentsline {figure}{\numberline {1-5}{\ignorespaces پایداری استاتیکی}}{6}{figure.caption.7}%
+\contentsline {figure}{\numberline {1-6}{\ignorespaces نسخه‌اولیه طراحی شده}}{6}{figure.caption.8}%
+\contentsline {figure}{\numberline {1-7}{\ignorespaces نسخه‌اسمبل شده}}{9}{figure.caption.9}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-3}{\ignorespaces الگوریتم \lr {RRT}}}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {2-4}{\ignorespaces مراحل تولید گره جدید و تشکیل مسیر}}{18}{figure.caption.15}%
+\contentsline {figure}{\numberline {2-5}{\ignorespaces آزمایشگاه اپریل میشیگان}}{19}{figure.caption.16}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3-1}{\ignorespaces نقطه دسترسی و مُد ایستگاهی}}{25}{figure.caption.19}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces ساختار کوئری استرینگ}}{32}{figure.caption.26}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces نحوه اتصال دو برد به یکدیگر\relax }}{36}{figure.caption.29}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-2}{\ignorespaces ماژول \lr {ESP32CAM}}}{41}{figure.caption.31}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces دوربین \lr {OV2640}}}{42}{figure.caption.32}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces سروموتور \lr {SG90}}}{43}{figure.caption.33}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces پین‌هدر نر}}{44}{figure.caption.34}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces پین‌هدر ماده}}{45}{figure.caption.35}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5-1}{\ignorespaces شبیه سازی الگوریتم \lr {RRT}}}{47}{figure.caption.36}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces مانع مکعب مستطیل با رنگ صورتی}}{48}{figure.caption.37}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces تشخیص رنگ آبی\relax }}{49}{figure.caption.38}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces زوایا و فواصل از تگ}}{49}{figure.caption.39}%
+\contentsfinish 
